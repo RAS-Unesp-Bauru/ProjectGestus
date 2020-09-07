@@ -29,14 +29,14 @@ Recomenda-se versão 3.7.
 ### Dependências necessárias
 
 **Instalação em uma linha**<br/>
-`pip install tensorflow-gpu==1.15.2 opencv-python numpy scipy matplotlib`
+`pip install tensorflow-gpu==1.15.2 opencv-python opencv-contrib-python numpy scipy matplotlib`
 
 - ### TensorFlow (recomenda-se versões <= 1.15.2)
 `pip install tensorflow==1.15.2` (CPU)<br/>
 `pip install tensorflow-gpu==1.15.2` (GPU)
 
 - ### OpenCV
-`pip install opencv-python`
+`pip install opencv-python opencv-contrib-python`
 
 - ### Numpy
 `pip install numpy`
